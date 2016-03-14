@@ -1,0 +1,6 @@
+#Fri Mar 24 12:33:30 GMT 2006
+eclipse.preferences.version=1
+pkg_use_project=true
+preverify_config_location=specified
+preverify_config_value=CLDC-1.0
+preverify_use_built_in=true
